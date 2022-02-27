@@ -1,0 +1,129 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Currently 21° in Tokyo</title>
+  </head>
+  <style>
+    h1 {
+      text-align: center;
+    }
+    .class1 {
+      text-align: center;
+      font-weight: bolder;
+      color: #1a64d6;
+      font-size: 35px;
+    }
+    h2 {
+      text-align: center;
+      font-size: 35px;
+      font-weight: lighter;
+    }
+    li {
+      list-style: none;
+    }
+    .class2 {
+      text-align: center;
+      padding: 0px;
+      border-radius: 10px;
+      transition: all 200ms ease-in-out;
+      max-width: 200px;
+      margin: 0 auto;
+      font-family: Helvetica, Arial, sans-serif;
+    }
+
+    .class3 {
+      text-align: center;
+      margin: 0 auto;
+      transition: all 200ms ease-in-out;
+      border-radius: 10px;
+      font-family: Helvetica, Arial, sans-serif;
+      padding: 0px;
+      max-width: 200px;
+    }
+
+    .class4 {
+      text-align: center;
+      margin: 0 auto;
+      transition: all 200ms ease-in-out;
+      border-radius: 10px;
+      padding: 10px 0 10px 0px;
+      font-family: Helvetica, Arial, sans-serif;
+      padding: 0px;
+      max-width: 200px;
+    }
+    .class2:hover {
+      color: black;
+      background: #fffbef;
+      border-radius: 10px;
+    }
+    .class3:hover {
+      color: black;
+      background: #fffbef;
+      border-radius: 10px;
+    }
+    .class4:hover {
+      color: black;
+      background: #fffbef;
+      border-radius: 10px;
+    }
+    .class5 {
+      display: block;
+      margin: 20px auto;
+      border: 1px solid #1a64d6;
+      background: #1a64d6;
+      color: #fff;
+      font-size: 16px;
+      line-height: 22px;
+      padding: 16px 24px;
+      border-radius: 30px;
+      transition: all 200ms ease;
+      box-shadow: rgb(37 39 89 / 8%) 0px 8px 8px 0;
+      cursor: pointer;
+    }
+    .class5:hover {
+      cursor: pointer;
+      color: blue;
+      background: white;
+    }
+    p {
+      text-align: center;
+      font-size: 18px;
+      font-family: monospace;
+    }
+  </style>
+
+  <h1>&#9925;</h1>
+  <div class="class1">
+    <span>Currently 21° in Tokyo</span>
+  </div>
+  <h2>
+    13°/
+    <strong>23°</strong>
+  </h2>
+
+  <body>
+    <ul>
+      <li class="class2">
+        <strong>🌧Tomorrow</strong>
+        <br />10° /
+        <strong> 22°</strong>
+      </li>
+      <li class="class3">
+        <strong>🌥 Saturday</strong>
+        <br />
+        15° /
+        <strong> 17°</strong>
+      </li>
+      <li class="class4">
+        <strong> ☀️ Sunday</strong>
+        <br />25° /
+        <strong> 28°</strong>
+      </li>
+    </ul>
+    <button class="class5">Change city</button>
+    <p>Coded by Nandini</p>
+  </body>
+</html>
