@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Nandini Setty
 - 👀 I’m interested establish my carrier in Manual and Automation testing.
 - 🌱 I’m currently learning Java,Manual testing,API testing,Selenium,HTML,Java,CSS
-- 💞️ I’m looking to collaborate with sharing knowledge in Software Testing.
+- 💞️ I’m looking to learn and share knowledge in Software Testing.
 - 📫 How to reach me nandinidilip22@gmail.com
 
 <!---
