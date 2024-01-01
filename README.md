@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @NanDil22
-- 👀 I’m interested in looking for jobs
-- 🌱 I’m currently learning HTML,Java,CSS
-- 💞️ I’m looking to collaborate on ...
+- 👋 Hi, I’m Nandini Setty
+- 👀 I’m interested establish my carrier in Manual and Automation testing.
+- 🌱 I’m currently learning Java,Manual testing,API testing,Selenium,HTML,Java,CSS
+- 💞️ I’m looking to collaborate with sharing knowledge in Software Testing.
 - 📫 How to reach me nandinidilip22@gmail.com
 
 <!---
